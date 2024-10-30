@@ -1,0 +1,47 @@
+#相似句子对 (10 对)
+今天下午我打算去超市买一些新鲜的水果和蔬菜。|||我今天下午准备到商场去采购新鲜的水果和青菜。
+由于连日暴雨，原计划的户外活动只能改期到下个星期。|||因为最近几天都在下大雨，原定的户外活动只能延期到下周了。
+他每天早晨都会在公园里慢跑三公里，以保持健康的生活习惯。|||为了保持良好的身体状态，他每天早上都会在公园里跑步三公里。
+公司今年的季度业绩报告显示利润大幅增长，超出了预期。|||根据公司的季度财报，今年的利润增长速度比我们预期的要快得多。
+她最近在努力复习，希望能在即将到来的期末考试中取得好成绩。|||为了在期末考试中获得好成绩，她最近每天都在认真地复习功课。
+如果明天的天气情况良好，我们计划去附近的山上露营一晚。|||我们打算明天去山上露营，但前提是天气要保持晴朗，没有下雨。
+这个项目的主要目标是优化公司的生产流程，提升整体效率。|||我们这个项目的任务是改善公司内部的生产流程，提高整体的运营效率。
+他每天下班后都会去健身房锻炼一个小时，这是他坚持了多年的习惯。|||下班之后他会去健身房锻炼身体，保持每次至少一个小时的运动量。
+我最近身体状况不太好，医生建议我多休息，不要太劳累。|||由于身体有些疲惫，医生让我好好休息一段时间，减少工作上的压力。
+小明在学校里不仅成绩优秀，而且还积极参与各种社团活动。|||除了学习成绩优异，小明还参加了学校的多个社团活动，并表现得非常活跃。
+
+#Similar Sentence Pairs (10 pairs)
+I am planning to go to the supermarket this afternoon to buy some fresh fruits and vegetables.|||This afternoon, I am going to the store to purchase fresh fruits and some green vegetables.
+Due to continuous heavy rains over the past few days, the planned outdoor event had to be rescheduled for next week.|||Because of the persistent rain, we had no choice but to postpone the outdoor event to next week.
+Every morning, he runs three kilometers in the park to maintain a healthy lifestyle and stay fit.|||To keep himself fit and active, he jogs three kilometers in the park every morning without fail.
+The quarterly financial report of the company showed a significant increase in profits, exceeding expectations.|||According to the company's quarterly report, the profit growth this year has been much higher than we initially expected.
+She has been studying very hard recently in hopes of achieving good results in the upcoming final exams.|||Lately, she has been focusing on her studies, aiming to score high marks in her final exams that are approaching.
+If the weather permits tomorrow, we are planning to go camping on a nearby mountain for a night.|||We plan to go camping on the mountain tomorrow, provided the weather remains clear and favorable.
+The main goal of this project is to optimize the company's production processes and improve overall efficiency.|||The objective of our project is to enhance the internal production processes of the company to boost efficiency.
+Every evening after work, he goes to the gym to exercise for an hour, which has been his routine for years.|||He makes it a point to visit the gym after work, maintaining his habit of at least an hour of exercise each day.
+I have not been feeling well lately, and the doctor advised me to rest more and not overexert myself.|||Since my health hasn't been great recently, the doctor recommended that I take some time off and reduce my workload.
+In school, Xiao Ming is not only academically excellent but also actively participates in various club activities.|||Besides excelling in his studies, Xiao Ming is very involved in numerous extracurricular activities at school.
+
+#无关句子对 (10 对)
+小王打算明年去欧洲各地旅游，体验不同的文化和美食。|||我今天刚刚换了一部新手机，用起来感觉非常流畅。
+他今天出门忘记带伞，结果在回来的路上被淋成了落汤鸡。|||最近的购物节有很多优惠活动，许多商品价格比平时便宜很多。
+科学家正在研究如何通过技术手段减少工业污染对环境的影响。|||小丽每天下班回家后都会到附近的公园散步，放松一天的疲惫。
+他的电脑配置非常高，运行大型游戏时几乎不会卡顿，非常流畅。|||冬天的时候我特别喜欢喝一杯热巧克力，看着窗外飘雪的景象。
+这次考试的难度比往年要大，所以整体成绩不太理想。|||晚上我打算去看一场刚上映的动作电影，票已经提前买好了。
+秋天到了，树叶开始变黄，天气也逐渐凉爽起来，非常适合外出旅行。|||为了增加收入，他在周末还兼职做家教，生活非常忙碌。
+小红每天晚上都会在家练习弹钢琴，这是她从小养成的习惯。|||这家公司的股票最近涨势很好，吸引了不少投资者关注和购买。
+在这座城市，公共交通非常发达，出行非常方便，不用担心堵车的问题。|||为了下周的会议顺利进行，部门里的人正在加班加点地准备材料。
+他的英语非常流利，和外国人交流几乎没有任何障碍，口语非常棒。|||在小区门口新开了一家小吃店，大家都说那里的食物特别好吃。
+这家咖啡店的环境很优雅，装饰得非常精致，是一个很适合工作和休闲的地方。|||我昨天晚上熬夜看完了一本小说，情节跌宕起伏，扣人心弦。
+
+#Unrelated Sentence Pairs (10 pairs)
+Xiao Wang is planning to travel around Europe next year to experience different cultures and cuisines.|||I recently bought a new laptop, and it works much faster than my old one, especially for gaming.
+He forgot to bring his umbrella today and ended up getting soaked on his way back home.|||The holiday sale was very exciting, with many products on discount and people rushing to buy gifts.
+Scientists are working on finding technological solutions to reduce the impact of industrial pollution on the environment.|||Every evening, Xiao Li goes for a walk in the park near her house to unwind after a busy day.
+His computer has very high specifications, allowing it to run heavy games smoothly without any lag.|||During winter, I enjoy drinking hot cocoa while watching the snowfall from my window.
+The difficulty of this exam was much higher compared to previous years, resulting in lower average scores.|||Tonight, I plan to watch the latest action movie that just hit the theaters, and I have already bought my ticket.
+With the arrival of autumn, the leaves are turning yellow, and the weather is cooling down, making it perfect for travel.|||To earn some extra money, he works part-time as a tutor on weekends, making his schedule quite busy.
+Every night, Xiao Hong practices playing the piano at home, a habit she has developed since she was young.|||Recently, the stock prices of this company have been rising steadily, drawing interest from many investors.
+Public transportation in this city is highly efficient, making commuting easy without the worry of traffic jams.|||To prepare for next week's presentation, everyone in the department is working overtime to finalize the materials.
+His English is very fluent, and he can communicate with native speakers effortlessly, with excellent pronunciation.|||A new bakery has opened near the entrance of our neighborhood, and everyone is saying their bread tastes amazing.
+This coffee shop has a very elegant and cozy ambiance, making it a perfect spot for both work and relaxation.|||Last night, I stayed up late reading a new novel, and the plot was thrilling, keeping me engaged till the end.
